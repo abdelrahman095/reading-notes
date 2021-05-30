@@ -12,7 +12,7 @@ Class | Description
  -------|---------
  lab1 |Intoduction
  Read1|Markdown
- Read2|Git
+ lab2 |[Git learning](https://abdelrahman095.github.io/reading-notes/)
  Read3|Structure web pages
  Read4|Dynamic web pages with javaScript
  Read5|[javaScript operators and loops](https://abdelrahman095.github.io/reading-notes/)
