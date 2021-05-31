@@ -15,6 +15,7 @@ Class | Description
  Read3|[HTML](https://newline.abdelra.repl.co/)
  Read4|Dynamic web pages with javaScript
  Read5|[javaScript operators and loops](https://abdelrahman095.github.io/reading-notes/)
+ Read6|
 
 ## Growth Mindset definition : 
 A growth mindset is when students understand that their abilities can be developed.
