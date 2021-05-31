@@ -13,9 +13,9 @@ Class | Description
  lab1 |Intoduction
  read2|[Git learning](https://abdelrahman095.github.io/reading-notes/)
  Read3|[HTML](https://newline.abdelra.repl.co/)
- Read4|Dynamic web pages with javaScript
+ Read4|
  Read5|[javaScript operators and loops](https://abdelrahman095.github.io/reading-notes/)
- Read6|
+ Read6|[Functions](https://abdelrahman095.github.io/reading-notes/)
 
 ## Growth Mindset definition : 
 A growth mindset is when students understand that their abilities can be developed.
